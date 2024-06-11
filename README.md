@@ -1,16 +1,8 @@
 # qrcodescanner
 
-A new Flutter project.
+A simple QR code scanner app that allows users to scan QR codes using their mobile camera and open respective links.
 
-## Getting Started
+# output video
 
-This project is a starting point for a Flutter application.
+https://github.com/khushitriv18/PRODIGY_AD_05/assets/169227271/9ea6fd0b-ee92-4e1b-8ca7-07baf87e6d49
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
